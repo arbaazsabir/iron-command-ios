@@ -18,6 +18,7 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.ironcommand.ios",
       "buildNumber": "1",
+      "deploymentTarget": "13.4",
       "infoPlist": {
         "UIRequiresFullScreen": true,
         "UIStatusBarHidden": true,
@@ -27,16 +28,6 @@
         "usesNonExemptEncryption": false
       }
     },
-    "plugins": [
-      [
-        "expo-build-properties",
-        {
-          "ios": {
-            "deploymentTarget": "13.0"
-          }
-        }
-      ]
-    ],
     "extra": {
       "eas": {
         "projectId": "REPLACE_WITH_YOUR_EAS_PROJECT_ID"
